@@ -1,0 +1,6 @@
+gradio>=4.0.0
+requests>=2.25.0
+nltk>=3.8.0
+python-docx>=0.8.11
+sqlite3
+ollama>=0.1.0 

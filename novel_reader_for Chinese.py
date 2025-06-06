@@ -1,8 +1,14 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-英文小说阅读辅助软件
-Designed by Toby
+英文小说阅读辅助软件 (English Novel Reading Assistant)
+一个基于AI的英文小说阅读辅助工具，帮助中文用户更好地理解和学习英文小说。
+
+Author: Toby LUO@ZHKU
+Copyright (c) 2024 Toby LUO@ZHKU
+License: MIT License
+
+GitHub: https://github.com/wallfacer-web/novel_reader_for-Chinese
 """
 
 import gradio as gr
