@@ -87,8 +87,9 @@ novel_reader_for-Chinese/
 
 ## 作者信息 👨‍💻
 
-**Toby LUO@ZHKU**
+**Toby LUO@ZHKU**  
+📧 Email: 903098625@qq.com
 
 ---
 
-© 2024 Toby LUO@ZHKU. All rights reserved. 
+© 2024 Toby LUO@ZHKU (903098625@qq.com). All rights reserved. 
